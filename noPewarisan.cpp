@@ -25,6 +25,6 @@ public:
 int main() {
     derivedClass a;
     a.perkenalan();
-    a.perkenalan1();
+    a.perkenalan();
     return 0;
 }
